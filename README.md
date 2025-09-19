@@ -4,6 +4,7 @@ Analyses du Stock , des Performances et details des GAFAM ( de leurs Creations a
 # INSTALL DEPENDENCIES 
 
     pip install yfinance pandas numpy matplotlib seaborn scipy
+    pip install -r -requirements.txt
 
 # RUN PROGRAM 
 
